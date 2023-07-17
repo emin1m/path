@@ -1,1 +1,1 @@
-# Data Science essential knowledges
+# Data Science Essentials
